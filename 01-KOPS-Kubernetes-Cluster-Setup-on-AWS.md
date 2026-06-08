@@ -522,7 +522,7 @@ IAM Roles
 
 ---
 
-# Step 16: Validate Cluster
+# Step 16: Validate Cluster (Optional)
 
 ## Purpose
 
