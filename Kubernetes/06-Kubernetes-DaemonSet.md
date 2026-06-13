@@ -389,7 +389,7 @@ Container image used by every Pod.
 # Step 9: Create DaemonSet
 
 ```bash
-kubectl create -f Daemon-demo.yml
+kubectl create -f daemon-demo.yml
 ```
 
 Expected:
@@ -757,5 +757,3 @@ Node Removed
         ▼
 Associated Pod Removed
 ```
-
-This version matches your actual class flow: **started with 1 control-plane + 1 worker node, added a second worker node using KOPS, then created the DaemonSet and verified one pod per worker node.**
